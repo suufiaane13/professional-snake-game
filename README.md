@@ -2,6 +2,8 @@
 
 A modern, feature-rich implementation of the classic Snake game built with React, TypeScript, and Tailwind CSS. This project demonstrates clean architecture, responsive design, and smooth gameplay mechanics.
 
+https://radiant-mooncake-8de62a.netlify.app/
+
 ## ✨ Features
 
 ### Core Gameplay
